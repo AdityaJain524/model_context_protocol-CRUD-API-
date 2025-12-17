@@ -403,8 +403,5 @@ crud-mcp-server/
 - Prevents wasted database calls
 - Better error messages for users
 
-## License
-MIT
 
-## Support
-For issues or questions, create a GitHub issue or contact the maintainers.
+
